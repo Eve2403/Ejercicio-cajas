@@ -1,0 +1,51 @@
+.red{
+  position: absolute;
+  background: red;
+  width: 400px;
+  height: 400px;
+  left: 450px;
+}
+.purple{
+  position: relative;
+  background: purple;
+  width: 200px;
+  height: 200px;
+  left: 100px;
+  top: 100px;
+}
+.yellow{
+  position: relative;
+  background: yellow;
+  width: 100px;
+  height: 100px;
+}
+.blue{
+  position: absolute;
+  background: blue;
+  width: 400px;
+  height: 400px;
+  left: 450px;
+  top: 500px;
+}
+.black{
+  position: relative;
+  background: black;
+  width: 100px;
+  height: 100px;
+}
+.green{
+  position: relative;
+  background: green;
+  width: 200px;
+  height: 200px;
+  left: 100px;
+  top: 100px;
+}
+.flotante{
+  position: fixed;
+  background: orange;
+  width: 200px;
+  height: 200px;
+  color: #fff;
+
+}
